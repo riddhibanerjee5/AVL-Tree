@@ -1,3 +1,0 @@
-C:/Users/18135/CLionProjects/GatorAVL/cmake-build-debug/CMakeFiles/GatorAVL.dir
-C:/Users/18135/CLionProjects/GatorAVL/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/18135/CLionProjects/GatorAVL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
